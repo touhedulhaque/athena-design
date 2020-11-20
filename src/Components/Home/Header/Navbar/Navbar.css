@@ -1,0 +1,49 @@
+.nav-font{
+    background-color: none;
+    text-decoration: none;
+}
+.bgMenu{
+    background: linear-gradient(to right, #272e42, #040d27);
+}
+
+
+
+.btnLogin{
+  background: linear-gradient(155deg, #1bd6bd, #11c1d3, #0491b4); 
+  text-decoration: none; 
+  color: white;
+  border-radius: 20px 0px;
+  border: none;
+}
+
+.btnLogin:hover {
+  background: linear-gradient(155deg, #0cc7ae, #22909c, #014353); 
+}
+
+
+@media screen and (max-width: 760px){
+  .nav-font{
+      color: white;
+} 
+   .nav-font ul{
+       display: flex;
+       justify-content: center;
+       text-align: center;
+       
+   }
+   
+.nav-font li{
+   color: white;
+   font-weight: bold;
+   text-align: center;
+   padding: 5px;
+   margin: 5px;
+   width: 100%;
+} 
+
+.btnLogin{
+  width: 50%;
+  float: center;
+}
+
+}

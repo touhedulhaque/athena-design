@@ -1,0 +1,100 @@
+.container {
+    margin-bottom: 70px;
+}
+
+.achv1:hover{
+    background: linear-gradient(155deg, #1bd6bd, #11c1d3, #0491b4);
+    border-radius: 0px 60px 0px 60px !important;
+    padding: 10px !important;
+   }
+   .achv2:hover{
+    background: linear-gradient(155deg, #1bd6bd, #11c1d3, #0491b4);
+    border-radius: 60px 0px 60px 0px !important;
+    padding: 10px !important;
+   }
+   .achv3:hover{
+    background: linear-gradient(155deg, #1bd6bd, #11c1d3, #0491b4);
+    border-radius: 60px 0px 60px 0px !important;
+    padding: 10px !important;
+   }
+   .achv4:hover{
+    background: linear-gradient(155deg, #1bd6bd, #11c1d3, #0491b4);
+    border-radius: 0px 60px 0px 60px !important;
+    padding: 10px !important;
+   }
+   
+
+  .emoji {
+      margin: 20px;
+      
+  }
+  .achv1 {
+      background: lightcyan;
+      border-radius: 0px 60px 0px 60px !important;
+  }
+  .achv2 {
+    background: lightcyan;
+    border-radius: 60px 0px 60px 0px !important;
+}
+.achv3 {
+    background: lightcyan;
+    border-radius: 60px 0px 60px 0px !important;
+}
+.achv4 {
+    background: lightcyan;
+    border-radius: 0px 60px 0px 60px !important;
+}
+  img {
+      height: 60px;
+      margin-top: 40px;
+  }
+  h2 {
+      padding-top: 25px;
+      padding-left: 25px;
+  }
+ .on {
+      padding-left: 35px;
+  }
+  .achv1 h2:hover {
+      color: white !important;
+    }
+    .achv1 p:hover {
+        color: white !important;
+      }
+    .achv1 h2 {
+        padding-bottom: -30px !important;
+    }
+    .achv2 h2:hover {
+        color: white !important;
+      }
+      .achv2 p:hover {
+          color: white !important;
+        }
+      .achv2 h2 {
+          padding-bottom: none;
+      }
+      .achv3 h2:hover {
+        color: white !important;
+      }
+      .achv3 p:hover {
+          color: white !important;
+        }
+      .achv3 h2 {
+          padding-bottom: none;
+      }
+      .achv4 h2:hover {
+        color: white !important;
+      }
+      .achv4 p:hover {
+          color: white !important;
+        }
+      .achv4 h2 {
+          padding-bottom: none;
+      }
+    .prize {
+        margin-top: 40px !important;
+    }
+    .achievement {
+        background: #f8f9fa;
+        margin-top: 140px;
+    }

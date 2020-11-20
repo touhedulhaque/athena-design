@@ -1,0 +1,25 @@
+.box-style-price{
+    border: 1px solid none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px grey;
+      
+}
+.box-style-price:hover{
+    border: 5px solid gray;
+    box-shadow: 1px 1px 10px aquamarine;
+    font-weight: 800;
+    border:none;
+    
+}
+
+.button-style{
+    border-top-left-radius: 27px;
+    border-bottom-right-radius: 30px;
+    border: none;
+    width: 9rem;
+    height: 3rem;
+    background-image: linear-gradient(to right, rgb(107,228, 137),cyan);
+    display: block;
+    margin: auto;
+}
+
